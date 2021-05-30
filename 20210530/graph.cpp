@@ -20,6 +20,6 @@ int main() {
     int a = 1;
     for (int i = 0; i < graph[a].size(); i++) {
         //頂点aに連結しているすべての頂点を最小回数で洗い出せる
-        cout << graph[a][i] << ' ';//5 2 8
+        cout << graph[a][i] << ' ';//3, 4
     }
 }
