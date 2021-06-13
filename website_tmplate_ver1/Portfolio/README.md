@@ -1,7 +1,7 @@
 ## 各ファイルについて
 ### ファイル構造
 MyPlotfolio -|-index.html  
-&nbsp;             |-favicon.ico   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             |-favicon.ico   
              |-css  
                |-styles.css  
              |-img  
