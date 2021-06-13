@@ -13,9 +13,6 @@ MyPlotfolio -|-index.html
 - css/styles.css idnex.htmlから呼ばれて、見た目を整えてる
 - imgフォルダ 画像いっぱい
 - favicon.ico タブの画像
-## 手元で動かしてみよう！
 
-## メモ
-記法(<https://qiita.com/hachihacchi/items/46ea7251f1e5675b1ecb>)メモ
 
 
