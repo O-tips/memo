@@ -1,13 +1,13 @@
 ## 各ファイルについて
 ### ファイル構造
-MyPlotfolio -|-index.html 
-             |-favicon.ico 
-             |-css
-               |-styles.css
-             |-img
-               |-blog.png
-               |-photos.png
-               |-....ect
+MyPlotfolio -|-index.html  
+             |-favicon.ico   
+             |-css  
+               |-styles.css  
+             |-img  
+               |-blog.png   
+               |-photos.png  
+               |-....ect  
 ### 各ファイルについて
 
 - index.html メインファイル、初めのページ
